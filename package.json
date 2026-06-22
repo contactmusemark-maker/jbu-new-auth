@@ -6,5 +6,5 @@
     "dev": "vercel dev"
   },
   "dependencies": {},
-  "engines": { "node": "18.x" }
+  "engines": { "node": "24.x" }
 }
