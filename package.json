@@ -1,0 +1,10 @@
+{
+  "name": "just-between-us",
+  "version": "2.0.0",
+  "description": "Just Between Us — private couples app",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {},
+  "engines": { "node": "18.x" }
+}
